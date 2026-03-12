@@ -16,10 +16,11 @@ This trend line demonstrates the sharp "decoupling" that triggered the structura
 ### **### **Empirical Visualizations**
 
 #### **Figure 1: Chow Test Structural Break Intensity**
-![F-Statistic Chart](https://raw.githubusercontent.com/bamideleadedeji/WAMZ-Merchant-Bank-Paradox/master/outputs/f_statistic_comparison.png)
+![F-Statistic Chart](outputs/f_statistic_comparison.png)
 
 #### **Figure 2: Private Sector Credit Growth Trends**
-![Trends Chart](https://raw.githubusercontent.com/bamideleadedeji/WAMZ-Merchant-Bank-Paradox/master/outputs/credit_growth_trends.png)
+![Trends Chart](outputs/credit_growth_trends.png)
+#### **
 
 - **The Steep Descent:** The visualization tracks the YoY Private Sector Credit growth before and after the 2024/2025 policy shifts.
 - **The Divergence:** While banking sector profits may remain stable due to government bond yields, the private sector's access to credit has plummeted. 
